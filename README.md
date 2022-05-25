@@ -24,3 +24,5 @@ This script likely will not have much of a use case outside of my organization, 
 ## Reasoning
 
 The summary of data that our department wanted went beyond what was offered at face value from the reports generated from the dashboard, and required multiple steps to clean the raw data on a monthly basis - including cleaning of string variables and grouping of various categorical values - the steps of which are outlined above.
+
+This script is meant to ease that workload and prepare the CSVs for importing into a report template XLSX file before further pivoting. The pivoting *could* be done via python with a pd.groupby (see: the commented-out lines in main.py), but by using a pivot table within Excel allows the department using the report greater descretion over filtering.
