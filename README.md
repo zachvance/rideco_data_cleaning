@@ -23,4 +23,4 @@ This script likely will not have much of a use case outside of my organization, 
 
 ## Reasoning
 
-The summary of data that our department wanted went beyond what was offered at face value from the reports generated from the dashboard, and required multiple steps to clean the raw data on a monthly basis - including cleaning of string variables and grouping of various categorical values, the steps of which are outline above.
+The summary of data that our department wanted went beyond what was offered at face value from the reports generated from the dashboard, and required multiple steps to clean the raw data on a monthly basis - including cleaning of string variables and grouping of various categorical values - the steps of which are outlined above.
